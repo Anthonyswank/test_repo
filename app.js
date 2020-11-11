@@ -1,3 +1,4 @@
-// eslint-disable-next-line strict
+'use strict';
+
 let myTeam = 'Anthony Swank and Nick Lomba';
-console.log(myTeam)
+console.log(myTeam);
